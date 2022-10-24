@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/examples/traversal/ent/pet"
-	"github.com/facebook/ent/examples/traversal/ent/user"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/examples/traversal/ent/pet"
+	"github.com/apocelipes/ent/examples/traversal/ent/user"
 )
 
 // Pet is the model entity for the Pet schema.

@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/examples/start/ent"
+	"github.com/apocelipes/ent/examples/start/ent"
 )
 
 // The CarFunc type is an adapter to allow the use of ordinary

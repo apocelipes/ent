@@ -9,7 +9,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/facebook/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin"
 
 	"github.com/stretchr/testify/mock"
 	"go.opencensus.io/trace"

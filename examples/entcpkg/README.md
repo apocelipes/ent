@@ -13,9 +13,9 @@ package main
 import (
 	"log"
 
-	"github.com/facebook/ent/entc"
-	"github.com/facebook/ent/entc/gen"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/entc"
+	"github.com/apocelipes/ent/entc/gen"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 func main() {

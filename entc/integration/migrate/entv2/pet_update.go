@@ -10,12 +10,12 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/migrate/entv2/pet"
-	"github.com/facebook/ent/entc/integration/migrate/entv2/predicate"
-	"github.com/facebook/ent/entc/integration/migrate/entv2/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv2/pet"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv2/predicate"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv2/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // PetUpdate is the builder for updating Pet entities.

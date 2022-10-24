@@ -25,8 +25,8 @@ import (
 			{{- end }}
 		{{- end }}
 	{{- end }}
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/dialect"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/dialect"
 	{{- with $.Storage }}
 		{{- range $import := .Imports }}
 			"{{ $import }}"

@@ -10,13 +10,13 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/gremlin"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/__"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/g"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/p"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/filetype"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/predicate"
+	"github.com/apocelipes/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/__"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/g"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/p"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/filetype"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/predicate"
 )
 
 // FileTypeUpdate is the builder for updating FileType entities.

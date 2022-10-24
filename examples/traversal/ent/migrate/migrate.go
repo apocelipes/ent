@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql/schema"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql/schema"
 )
 
 var (

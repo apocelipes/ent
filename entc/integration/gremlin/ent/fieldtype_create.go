@@ -15,12 +15,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/facebook/ent/dialect/gremlin"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/g"
-	"github.com/facebook/ent/entc/integration/ent/role"
-	"github.com/facebook/ent/entc/integration/ent/schema"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/fieldtype"
+	"github.com/apocelipes/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/g"
+	"github.com/apocelipes/ent/entc/integration/ent/role"
+	"github.com/apocelipes/ent/entc/integration/ent/schema"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/fieldtype"
 )
 
 // FieldTypeCreate is the builder for creating a FieldType entity.

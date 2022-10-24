@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/entc/integration/hooks/ent"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent"
 )
 
 // The CardFunc type is an adapter to allow the use of ordinary

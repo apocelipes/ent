@@ -5,8 +5,8 @@
 package valid
 
 import (
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // User holds the user schema.

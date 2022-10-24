@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/entc/integration/template/ent/group"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/entc/integration/template/ent/group"
 )
 
 // Group is the model entity for the Group schema.

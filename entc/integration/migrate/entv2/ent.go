@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
 )
 
 // ent aliases to avoid import conflict in user's code.

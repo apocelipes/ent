@@ -10,11 +10,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/gremlin"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/g"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/item"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/predicate"
+	"github.com/apocelipes/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/g"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/item"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/predicate"
 )
 
 // ItemUpdate is the builder for updating Item entities.

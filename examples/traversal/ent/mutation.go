@@ -11,11 +11,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/examples/traversal/ent/group"
-	"github.com/facebook/ent/examples/traversal/ent/pet"
-	"github.com/facebook/ent/examples/traversal/ent/user"
+	"github.com/apocelipes/ent/examples/traversal/ent/group"
+	"github.com/apocelipes/ent/examples/traversal/ent/pet"
+	"github.com/apocelipes/ent/examples/traversal/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

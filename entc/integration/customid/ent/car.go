@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/entc/integration/customid/ent/car"
-	"github.com/facebook/ent/entc/integration/customid/ent/pet"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/car"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/pet"
 )
 
 // Car is the model entity for the Car schema.

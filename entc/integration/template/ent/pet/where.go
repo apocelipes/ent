@@ -9,9 +9,9 @@ package pet
 import (
 	"time"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/template/ent/predicate"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/template/ent/predicate"
 )
 
 // ID filters vertices based on their identifier.

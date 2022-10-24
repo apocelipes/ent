@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/entc/integration/ent/comment"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/entc/integration/ent/comment"
 )
 
 // Comment is the model entity for the Comment schema.

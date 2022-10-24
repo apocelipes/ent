@@ -1,4 +1,4 @@
-module github.com/facebook/ent
+module github.com/apocelipes/ent
 
 go 1.15
 

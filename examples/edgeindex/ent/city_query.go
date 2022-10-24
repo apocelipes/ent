@@ -13,12 +13,12 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/examples/edgeindex/ent/city"
-	"github.com/facebook/ent/examples/edgeindex/ent/predicate"
-	"github.com/facebook/ent/examples/edgeindex/ent/street"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/city"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/predicate"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/street"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // CityQuery is the builder for querying City entities.

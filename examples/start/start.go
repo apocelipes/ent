@@ -10,10 +10,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/facebook/ent/examples/start/ent"
-	"github.com/facebook/ent/examples/start/ent/car"
-	"github.com/facebook/ent/examples/start/ent/group"
-	"github.com/facebook/ent/examples/start/ent/user"
+	"github.com/apocelipes/ent/examples/start/ent"
+	"github.com/apocelipes/ent/examples/start/ent/car"
+	"github.com/apocelipes/ent/examples/start/ent/group"
+	"github.com/apocelipes/ent/examples/start/ent/user"
 
 	_ "github.com/mattn/go-sqlite3"
 )

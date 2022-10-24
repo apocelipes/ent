@@ -7,7 +7,7 @@ package graph
 import (
 	"fmt"
 
-	"github.com/facebook/ent/dialect/gremlin/encoding/graphson"
+	"github.com/apocelipes/ent/dialect/gremlin/encoding/graphson"
 
 	"github.com/pkg/errors"
 )

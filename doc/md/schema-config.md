@@ -11,8 +11,8 @@ A custom table name can be provided for types using the `Table` option as follow
 package schema
 
 import (
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 type User struct {

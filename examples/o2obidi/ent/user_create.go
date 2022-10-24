@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/examples/o2obidi/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/examples/o2obidi/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // UserCreate is the builder for creating a User entity.

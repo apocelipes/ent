@@ -13,13 +13,13 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/customid/ent/group"
-	"github.com/facebook/ent/entc/integration/customid/ent/pet"
-	"github.com/facebook/ent/entc/integration/customid/ent/predicate"
-	"github.com/facebook/ent/entc/integration/customid/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/group"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/predicate"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // UserQuery is the builder for querying User entities.

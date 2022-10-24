@@ -11,12 +11,12 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/facebook/ent/entc/integration/config/ent/migrate"
+	"github.com/apocelipes/ent/entc/integration/config/ent/migrate"
 
-	"github.com/facebook/ent/entc/integration/config/ent/user"
+	"github.com/apocelipes/ent/entc/integration/config/ent/user"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
 )
 
 // Client is the client that holds all ent builders.

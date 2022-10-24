@@ -15,10 +15,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/entc/integration/json/ent"
-	"github.com/facebook/ent/entc/integration/json/ent/migrate"
-	"github.com/facebook/ent/entc/integration/json/ent/user"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/entc/integration/json/ent"
+	"github.com/apocelipes/ent/entc/integration/json/ent/migrate"
+	"github.com/apocelipes/ent/entc/integration/json/ent/user"
 
 	"github.com/go-sql-driver/mysql"
 	_ "github.com/lib/pq"

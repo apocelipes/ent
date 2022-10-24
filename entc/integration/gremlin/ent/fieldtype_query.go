@@ -12,12 +12,12 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/facebook/ent/dialect/gremlin"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/__"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/g"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/fieldtype"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/predicate"
+	"github.com/apocelipes/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/__"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/g"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/fieldtype"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/predicate"
 )
 
 // FieldTypeQuery is the builder for querying FieldType entities.

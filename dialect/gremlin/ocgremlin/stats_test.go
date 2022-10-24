@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/facebook/ent/dialect/gremlin"
-	"github.com/facebook/ent/dialect/gremlin/encoding/graphson"
+	"github.com/apocelipes/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin/encoding/graphson"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"

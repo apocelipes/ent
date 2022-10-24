@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/examples/m2m2types/ent/group"
-	"github.com/facebook/ent/examples/m2m2types/ent/user"
+	"github.com/apocelipes/ent/examples/m2m2types/ent/group"
+	"github.com/apocelipes/ent/examples/m2m2types/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

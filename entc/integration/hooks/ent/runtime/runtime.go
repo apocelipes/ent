@@ -9,11 +9,11 @@ package runtime
 import (
 	"time"
 
-	"github.com/facebook/ent/entc/integration/hooks/ent/card"
-	"github.com/facebook/ent/entc/integration/hooks/ent/schema"
-	"github.com/facebook/ent/entc/integration/hooks/ent/user"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent/card"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent/schema"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 // The init function reads all schema descriptors with runtime

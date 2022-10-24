@@ -12,12 +12,12 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/__"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/p"
-	"github.com/facebook/ent/entc/integration/ent/role"
-	"github.com/facebook/ent/entc/integration/ent/schema"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/predicate"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/__"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/p"
+	"github.com/apocelipes/ent/entc/integration/ent/role"
+	"github.com/apocelipes/ent/entc/integration/ent/schema"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/predicate"
 )
 
 // ID filters vertices based on their identifier.

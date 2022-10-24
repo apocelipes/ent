@@ -11,10 +11,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/privacy/ent/galaxy"
-	"github.com/facebook/ent/entc/integration/privacy/ent/planet"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/galaxy"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/planet"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // GalaxyCreate is the builder for creating a Galaxy entity.

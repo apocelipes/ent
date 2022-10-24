@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/entc/integration/gremlin/ent"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent"
 )
 
 var (

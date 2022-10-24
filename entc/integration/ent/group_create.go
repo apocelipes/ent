@@ -12,12 +12,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/ent/file"
-	"github.com/facebook/ent/entc/integration/ent/group"
-	"github.com/facebook/ent/entc/integration/ent/groupinfo"
-	"github.com/facebook/ent/entc/integration/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/ent/file"
+	"github.com/apocelipes/ent/entc/integration/ent/group"
+	"github.com/apocelipes/ent/entc/integration/ent/groupinfo"
+	"github.com/apocelipes/ent/entc/integration/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // GroupCreate is the builder for creating a Group entity.

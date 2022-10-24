@@ -7,9 +7,9 @@
 package node
 
 import (
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/examples/o2orecur/ent/predicate"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/examples/o2orecur/ent/predicate"
 )
 
 // ID filters vertices based on their identifier.

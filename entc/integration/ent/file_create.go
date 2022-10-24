@@ -11,12 +11,12 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/ent/fieldtype"
-	"github.com/facebook/ent/entc/integration/ent/file"
-	"github.com/facebook/ent/entc/integration/ent/filetype"
-	"github.com/facebook/ent/entc/integration/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/ent/fieldtype"
+	"github.com/apocelipes/ent/entc/integration/ent/file"
+	"github.com/apocelipes/ent/entc/integration/ent/filetype"
+	"github.com/apocelipes/ent/entc/integration/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // FileCreate is the builder for creating a File entity.

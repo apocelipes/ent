@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/facebook/ent/examples/o2m2types/ent"
+	"github.com/apocelipes/ent/examples/o2m2types/ent"
 
 	_ "github.com/mattn/go-sqlite3"
 )

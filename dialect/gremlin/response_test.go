@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/facebook/ent/dialect/gremlin/encoding/graphson"
-	"github.com/facebook/ent/dialect/gremlin/graph"
+	"github.com/apocelipes/ent/dialect/gremlin/encoding/graphson"
+	"github.com/apocelipes/ent/dialect/gremlin/graph"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

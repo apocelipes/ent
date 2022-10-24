@@ -7,7 +7,7 @@
 package predicate
 
 import (
-	"github.com/facebook/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql"
 )
 
 // Galaxy is the predicate function for galaxy builders.

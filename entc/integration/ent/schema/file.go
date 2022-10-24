@@ -7,10 +7,10 @@ package schema
 import (
 	"math"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/edge"
-	"github.com/facebook/ent/schema/field"
-	"github.com/facebook/ent/schema/index"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/edge"
+	"github.com/apocelipes/ent/schema/field"
+	"github.com/apocelipes/ent/schema/index"
 )
 
 // File holds the schema definition for the File entity.

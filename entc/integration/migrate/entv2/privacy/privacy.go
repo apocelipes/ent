@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/entc/integration/migrate/entv2"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv2"
 )
 
 var (

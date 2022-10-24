@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/entc/integration/template/ent"
+	"github.com/apocelipes/ent/entc/integration/template/ent"
 )
 
 // The GroupFunc type is an adapter to allow the use of ordinary

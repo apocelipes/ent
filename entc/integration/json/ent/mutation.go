@@ -14,9 +14,9 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/facebook/ent/entc/integration/json/ent/user"
+	"github.com/apocelipes/ent/entc/integration/json/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

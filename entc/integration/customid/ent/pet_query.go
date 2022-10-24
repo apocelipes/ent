@@ -13,13 +13,13 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/customid/ent/car"
-	"github.com/facebook/ent/entc/integration/customid/ent/pet"
-	"github.com/facebook/ent/entc/integration/customid/ent/predicate"
-	"github.com/facebook/ent/entc/integration/customid/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/car"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/predicate"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // PetQuery is the builder for querying Pet entities.

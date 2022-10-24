@@ -10,7 +10,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/facebook/ent/examples/o2o2types/ent"
+	"github.com/apocelipes/ent/examples/o2o2types/ent"
 
 	_ "github.com/mattn/go-sqlite3"
 )

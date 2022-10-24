@@ -11,12 +11,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/hooks/ent/card"
-	"github.com/facebook/ent/entc/integration/hooks/ent/predicate"
-	"github.com/facebook/ent/entc/integration/hooks/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent/card"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent/predicate"
+	"github.com/apocelipes/ent/entc/integration/hooks/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // CardUpdate is the builder for updating Card entities.

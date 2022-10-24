@@ -11,10 +11,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/ent/pet"
-	"github.com/facebook/ent/entc/integration/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // PetCreate is the builder for creating a Pet entity.

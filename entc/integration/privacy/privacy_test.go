@@ -9,11 +9,11 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/facebook/ent/entc/integration/privacy/ent/enttest"
-	"github.com/facebook/ent/entc/integration/privacy/ent/galaxy"
-	"github.com/facebook/ent/entc/integration/privacy/ent/planet"
-	"github.com/facebook/ent/entc/integration/privacy/ent/privacy"
-	"github.com/facebook/ent/entc/integration/privacy/rule"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/enttest"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/galaxy"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/planet"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/privacy"
+	"github.com/apocelipes/ent/entc/integration/privacy/rule"
 
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/stretchr/testify/require"

@@ -4,7 +4,7 @@
 
 package schema
 
-import "github.com/facebook/ent"
+import "github.com/apocelipes/ent"
 
 // User holds the schema definition for the User entity.
 type User struct {

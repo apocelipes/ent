@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin"
 )
 
 // GroupInfo is the model entity for the GroupInfo schema.

@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/__"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/g"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/p"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/__"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/g"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/p"
 
 	"github.com/stretchr/testify/require"
 )

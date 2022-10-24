@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/examples/edgeindex/ent/city"
-	"github.com/facebook/ent/examples/edgeindex/ent/street"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/city"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/street"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

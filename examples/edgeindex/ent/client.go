@@ -11,14 +11,14 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/facebook/ent/examples/edgeindex/ent/migrate"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/migrate"
 
-	"github.com/facebook/ent/examples/edgeindex/ent/city"
-	"github.com/facebook/ent/examples/edgeindex/ent/street"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/city"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/street"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
 )
 
 // Client is the client that holds all ent builders.

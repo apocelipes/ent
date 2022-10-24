@@ -10,11 +10,11 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/migrate/entv1/car"
-	"github.com/facebook/ent/entc/integration/migrate/entv1/predicate"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/car"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/predicate"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // CarDelete is the builder for deleting a Car entity.

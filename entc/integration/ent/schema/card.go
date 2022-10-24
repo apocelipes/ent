@@ -5,11 +5,11 @@
 package schema
 
 import (
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/entc/integration/ent/template"
-	"github.com/facebook/ent/schema/edge"
-	"github.com/facebook/ent/schema/field"
-	"github.com/facebook/ent/schema/mixin"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/entc/integration/ent/template"
+	"github.com/apocelipes/ent/schema/edge"
+	"github.com/apocelipes/ent/schema/field"
+	"github.com/apocelipes/ent/schema/mixin"
 )
 
 // Card holds the schema definition for the CreditCard entity.

@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/examples/edgeindex/ent"
+	"github.com/apocelipes/ent/examples/edgeindex/ent"
 )
 
 // The CityFunc type is an adapter to allow the use of ordinary

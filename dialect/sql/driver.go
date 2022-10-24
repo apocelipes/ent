@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect"
+	"github.com/apocelipes/ent/dialect"
 )
 
 // Driver is a dialect.Driver implementation for SQL based databases.

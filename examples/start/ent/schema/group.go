@@ -7,9 +7,9 @@ package schema
 import (
 	"regexp"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/edge"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/edge"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // Group holds the schema definition for the Group entity.

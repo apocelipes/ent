@@ -17,7 +17,7 @@ sidebar_label: Quick Introduction
 ## Installation
 
 ```console
-go get github.com/facebook/ent/cmd/entc
+go get github.com/apocelipes/ent/cmd/entc
 ```
 
 After installing `entc` (the code generator for `ent`), you should have it in your `PATH`.
@@ -45,7 +45,7 @@ The command above will generate the schema for `User` under `<project>/ent/schem
 
 package schema
 
-import "github.com/facebook/ent"
+import "github.com/apocelipes/ent"
 
 // User holds the schema definition for the User entity.
 type User struct {
@@ -70,8 +70,8 @@ Add 2 fields to the `User` schema:
 package schema
 
 import (
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 
@@ -209,8 +209,8 @@ And then we add the rest of the fields manually:
 import (
 	"regexp"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // Fields of the Car.
@@ -243,8 +243,8 @@ Let's add the `"cars"` edge to the `User` schema, and run `go generate ./ent`:
  import (
  	"log"
 
- 	"github.com/facebook/ent"
- 	"github.com/facebook/ent/schema/edge"
+ 	"github.com/apocelipes/ent"
+ 	"github.com/apocelipes/ent/schema/edge"
  )
 
  // Edges of the User.
@@ -338,8 +338,8 @@ in the `User` schema, and run `go generate ./ent`.
 import (
 	"log"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/edge"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/edge"
 )
 
 // Edges of the Car.
@@ -399,8 +399,8 @@ relationship named `groups`. Let's define this relationship in our schemas:
 	 import (
 		"log"
 	
-		"github.com/facebook/ent"
-		"github.com/facebook/ent/schema/edge"
+		"github.com/apocelipes/ent"
+		"github.com/apocelipes/ent/schema/edge"
 	 )
 	
 	 // Edges of the Group.
@@ -416,8 +416,8 @@ relationship named `groups`. Let's define this relationship in our schemas:
 	 import (
 	 	"log"
 	
-	 	"github.com/facebook/ent"
-	 	"github.com/facebook/ent/schema/edge"
+	 	"github.com/apocelipes/ent"
+	 	"github.com/apocelipes/ent/schema/edge"
 	 )
 	
 	 // Edges of the User.
@@ -606,4 +606,4 @@ Now when we have a graph with data, we can run a few queries on it:
     }
     ```
 
-The full example exists in [GitHub](https://github.com/facebook/ent/tree/master/examples/start).
+The full example exists in [GitHub](https://github.com/apocelipes/ent/tree/master/examples/start).

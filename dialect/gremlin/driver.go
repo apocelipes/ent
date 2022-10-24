@@ -8,8 +8,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
 )
 
 // Driver is a dialect.Driver implementation for TinkerPop gremlin.

@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // Postgres is a postgres migration driver.

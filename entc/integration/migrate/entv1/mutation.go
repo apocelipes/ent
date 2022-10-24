@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/entc/integration/migrate/entv1/car"
-	"github.com/facebook/ent/entc/integration/migrate/entv1/user"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/car"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

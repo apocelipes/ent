@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/examples/o2obidi/ent/user"
+	"github.com/apocelipes/ent/examples/o2obidi/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

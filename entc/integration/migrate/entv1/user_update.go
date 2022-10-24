@@ -10,12 +10,12 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/migrate/entv1/car"
-	"github.com/facebook/ent/entc/integration/migrate/entv1/predicate"
-	"github.com/facebook/ent/entc/integration/migrate/entv1/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/car"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/predicate"
+	"github.com/apocelipes/ent/entc/integration/migrate/entv1/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // UserUpdate is the builder for updating User entities.

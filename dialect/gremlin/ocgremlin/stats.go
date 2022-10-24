@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/facebook/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin"
 
 	"go.opencensus.io/stats"
 	"go.opencensus.io/stats/view"

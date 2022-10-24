@@ -9,13 +9,13 @@ package ent
 import (
 	"time"
 
-	"github.com/facebook/ent/entc/integration/ent/schema"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/card"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/fieldtype"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/file"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/group"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/groupinfo"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/user"
+	"github.com/apocelipes/ent/entc/integration/ent/schema"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/card"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/fieldtype"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/file"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/group"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/groupinfo"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/user"
 )
 
 // The init function reads all schema descriptors with runtime

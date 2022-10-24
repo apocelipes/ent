@@ -13,10 +13,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/entc/integration/ent/fieldtype"
-	"github.com/facebook/ent/entc/integration/ent/role"
-	"github.com/facebook/ent/entc/integration/ent/schema"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/entc/integration/ent/fieldtype"
+	"github.com/apocelipes/ent/entc/integration/ent/role"
+	"github.com/apocelipes/ent/entc/integration/ent/schema"
 )
 
 // FieldType is the model entity for the FieldType schema.

@@ -11,13 +11,13 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/facebook/ent/examples/o2orecur/ent/migrate"
+	"github.com/apocelipes/ent/examples/o2orecur/ent/migrate"
 
-	"github.com/facebook/ent/examples/o2orecur/ent/node"
+	"github.com/apocelipes/ent/examples/o2orecur/ent/node"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
 )
 
 // Client is the client that holds all ent builders.

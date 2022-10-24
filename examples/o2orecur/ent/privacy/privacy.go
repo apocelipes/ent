@@ -11,7 +11,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/examples/o2orecur/ent"
+	"github.com/apocelipes/ent/examples/o2orecur/ent"
 )
 
 var (

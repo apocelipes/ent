@@ -12,14 +12,14 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/facebook/ent/dialect/gremlin"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/__"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/g"
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl/p"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/group"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/predicate"
-	"github.com/facebook/ent/entc/integration/gremlin/ent/user"
+	"github.com/apocelipes/ent/dialect/gremlin"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/__"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/g"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl/p"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/group"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/predicate"
+	"github.com/apocelipes/ent/entc/integration/gremlin/ent/user"
 )
 
 // GroupUpdate is the builder for updating Group entities.

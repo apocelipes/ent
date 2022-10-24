@@ -7,8 +7,8 @@
 package entv2
 
 import (
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/dialect"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/dialect"
 )
 
 // Option function to configure the client.

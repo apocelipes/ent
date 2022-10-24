@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/facebook/ent/entc/integration/privacy/ent"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent"
 )
 
 // The GalaxyFunc type is an adapter to allow the use of ordinary

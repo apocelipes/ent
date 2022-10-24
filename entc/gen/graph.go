@@ -17,9 +17,9 @@ import (
 	"text/template"
 	"text/template/parse"
 
-	"github.com/facebook/ent/dialect/sql/schema"
-	"github.com/facebook/ent/entc/load"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/schema"
+	"github.com/apocelipes/ent/entc/load"
+	"github.com/apocelipes/ent/schema/field"
 
 	"golang.org/x/tools/imports"
 )

@@ -8,9 +8,9 @@ package ent
 import (
 	"context"
 
-	"github.com/facebook/ent/schema/edge"
-	"github.com/facebook/ent/schema/field"
-	"github.com/facebook/ent/schema/index"
+	"github.com/apocelipes/ent/schema/edge"
+	"github.com/apocelipes/ent/schema/field"
+	"github.com/apocelipes/ent/schema/index"
 )
 
 type (

@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/entc/integration/privacy/ent/galaxy"
-	"github.com/facebook/ent/entc/integration/privacy/ent/planet"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/galaxy"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/planet"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

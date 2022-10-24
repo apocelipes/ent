@@ -18,8 +18,8 @@ package schema
 import (
 	"time"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // User schema.
@@ -63,8 +63,8 @@ import (
 	"time"
 	"net/url"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // User schema.
@@ -149,9 +149,9 @@ there is an option to override the default behavior using the `SchemaType` metho
 package schema
 
 import (
-    "github.com/facebook/ent"
-    "github.com/facebook/ent/dialect"
-    "github.com/facebook/ent/schema/field"
+    "github.com/apocelipes/ent"
+    "github.com/apocelipes/ent/dialect"
+    "github.com/apocelipes/ent/schema/field"
 )
 
 // Card schema.
@@ -177,7 +177,7 @@ and for time fields, the type is `time.Time`. The `GoType` method provides an op
 default ent type with a custom one.
 
 The custom type must be either a type that is convertible to the Go basic type, or a type that implements the
-[ValueScanner](https://pkg.go.dev/github.com/facebook/ent/schema/field?tab=doc#ValueScanner) interface.
+[ValueScanner](https://pkg.go.dev/github.com/apocelipes/ent/schema/field?tab=doc#ValueScanner) interface.
 
 
 ```go
@@ -186,9 +186,9 @@ package schema
 import (
     "database/sql"
 
-    "github.com/facebook/ent"
-    "github.com/facebook/ent/dialect"
-    "github.com/facebook/ent/schema/field"
+    "github.com/apocelipes/ent"
+    "github.com/apocelipes/ent/dialect"
+    "github.com/apocelipes/ent/schema/field"
 )
 
 // Amount is a custom Go type that's convertible to the basic float64 type.
@@ -246,8 +246,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 

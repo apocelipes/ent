@@ -13,9 +13,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/json/ent/user"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/json/ent/user"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // UserCreate is the builder for creating a User entity.

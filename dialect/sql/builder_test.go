@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/facebook/ent/dialect"
+	"github.com/apocelipes/ent/dialect"
 	"github.com/stretchr/testify/require"
 )
 

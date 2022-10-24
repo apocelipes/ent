@@ -12,11 +12,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/facebook/ent/entc/integration/template/ent/group"
-	"github.com/facebook/ent/entc/integration/template/ent/pet"
-	"github.com/facebook/ent/entc/integration/template/ent/user"
+	"github.com/apocelipes/ent/entc/integration/template/ent/group"
+	"github.com/apocelipes/ent/entc/integration/template/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/template/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

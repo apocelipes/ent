@@ -9,8 +9,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/schema/edge"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/schema/edge"
 
 	"github.com/stretchr/testify/assert"
 )

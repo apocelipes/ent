@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/examples/start/ent/user"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/examples/start/ent/user"
 )
 
 // User is the model entity for the User schema.

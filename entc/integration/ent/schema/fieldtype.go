@@ -11,11 +11,11 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/entc/integration/ent/role"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/entc/integration/ent/role"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // FieldType holds the schema definition for the FieldType entity.

@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/entc/integration/idtype/ent/user"
+	"github.com/apocelipes/ent/entc/integration/idtype/ent/user"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

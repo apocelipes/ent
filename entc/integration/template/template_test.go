@@ -9,8 +9,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/facebook/ent/entc/integration/template/ent"
-	"github.com/facebook/ent/entc/integration/template/ent/migrate"
+	"github.com/apocelipes/ent/entc/integration/template/ent"
+	"github.com/apocelipes/ent/entc/integration/template/ent/migrate"
 
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/stretchr/testify/require"

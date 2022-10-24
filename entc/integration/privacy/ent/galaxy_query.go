@@ -13,12 +13,12 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/entc/integration/privacy/ent/galaxy"
-	"github.com/facebook/ent/entc/integration/privacy/ent/planet"
-	"github.com/facebook/ent/entc/integration/privacy/ent/predicate"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/galaxy"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/planet"
+	"github.com/apocelipes/ent/entc/integration/privacy/ent/predicate"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // GalaxyQuery is the builder for querying Galaxy entities.

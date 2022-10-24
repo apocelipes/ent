@@ -9,11 +9,11 @@ package enttest
 import (
 	"context"
 
-	"github.com/facebook/ent/examples/o2obidi/ent"
+	"github.com/apocelipes/ent/examples/o2obidi/ent"
 	// required by schema hooks.
-	_ "github.com/facebook/ent/examples/o2obidi/ent/runtime"
+	_ "github.com/apocelipes/ent/examples/o2obidi/ent/runtime"
 
-	"github.com/facebook/ent/dialect/sql/schema"
+	"github.com/apocelipes/ent/dialect/sql/schema"
 )
 
 type (

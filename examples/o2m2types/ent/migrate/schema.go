@@ -7,8 +7,8 @@
 package migrate
 
 import (
-	"github.com/facebook/ent/dialect/sql/schema"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/schema"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 var (

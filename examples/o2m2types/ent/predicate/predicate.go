@@ -7,7 +7,7 @@
 package predicate
 
 import (
-	"github.com/facebook/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql"
 )
 
 // Pet is the predicate function for pet builders.

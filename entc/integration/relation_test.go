@@ -10,12 +10,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/facebook/ent/entc/integration/ent"
-	"github.com/facebook/ent/entc/integration/ent/card"
-	"github.com/facebook/ent/entc/integration/ent/group"
-	"github.com/facebook/ent/entc/integration/ent/node"
-	"github.com/facebook/ent/entc/integration/ent/pet"
-	"github.com/facebook/ent/entc/integration/ent/user"
+	"github.com/apocelipes/ent/entc/integration/ent"
+	"github.com/apocelipes/ent/entc/integration/ent/card"
+	"github.com/apocelipes/ent/entc/integration/ent/group"
+	"github.com/apocelipes/ent/entc/integration/ent/node"
+	"github.com/apocelipes/ent/entc/integration/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/ent/user"
 
 	"github.com/stretchr/testify/require"
 )

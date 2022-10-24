@@ -11,10 +11,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
-	"github.com/facebook/ent/examples/edgeindex/ent/city"
-	"github.com/facebook/ent/examples/edgeindex/ent/street"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/city"
+	"github.com/apocelipes/ent/examples/edgeindex/ent/street"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // StreetCreate is the builder for creating a Street entity.

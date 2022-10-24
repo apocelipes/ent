@@ -9,7 +9,7 @@ package fieldtype
 import (
 	"fmt"
 
-	"github.com/facebook/ent/entc/integration/ent/role"
+	"github.com/apocelipes/ent/entc/integration/ent/role"
 )
 
 const (

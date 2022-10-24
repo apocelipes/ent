@@ -16,10 +16,10 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/facebook/ent"
-	"github.com/facebook/ent/dialect/sql/schema"
-	"github.com/facebook/ent/entc/load"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent"
+	"github.com/apocelipes/ent/dialect/sql/schema"
+	"github.com/apocelipes/ent/entc/load"
+	"github.com/apocelipes/ent/schema/field"
 )
 
 // The following types and their exported methods used by the codegen

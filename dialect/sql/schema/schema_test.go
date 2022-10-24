@@ -7,7 +7,7 @@ package schema
 import (
 	"testing"
 
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/schema/field"
 
 	"github.com/stretchr/testify/require"
 )

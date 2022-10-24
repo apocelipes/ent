@@ -11,14 +11,14 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent/entc/integration/customid/ent/blob"
-	"github.com/facebook/ent/entc/integration/customid/ent/car"
-	"github.com/facebook/ent/entc/integration/customid/ent/group"
-	"github.com/facebook/ent/entc/integration/customid/ent/pet"
-	"github.com/facebook/ent/entc/integration/customid/ent/user"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/blob"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/car"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/group"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/user"
 	"github.com/google/uuid"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

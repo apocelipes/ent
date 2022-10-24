@@ -16,9 +16,9 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/facebook/ent/entc"
-	"github.com/facebook/ent/entc/gen"
-	"github.com/facebook/ent/schema/field"
+	"github.com/apocelipes/ent/entc"
+	"github.com/apocelipes/ent/entc/gen"
+	"github.com/apocelipes/ent/schema/field"
 
 	"github.com/spf13/cobra"
 )
@@ -207,7 +207,7 @@ func createDir(target string) error {
 var tmpl = template.Must(template.New("schema").
 	Parse(`package schema
 
-import "github.com/facebook/ent"
+import "github.com/apocelipes/ent"
 
 // {{ . }} holds the schema definition for the {{ . }} entity.
 type {{ . }} struct {
@@ -229,7 +229,7 @@ const (
 	// default schema package path.
 	defaultSchema = "ent/schema"
 	// ent/generate.go file used for "go generate" command.
-	genFile = "package ent\n\n//go:generate go run github.com/facebook/ent/cmd/entc generate ./schema\n"
+	genFile = "package ent\n\n//go:generate go run github.com/apocelipes/ent/cmd/entc generate ./schema\n"
 )
 
 // examples formats the given examples to the cli.

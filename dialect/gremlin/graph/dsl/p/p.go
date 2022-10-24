@@ -5,7 +5,7 @@
 package p
 
 import (
-	"github.com/facebook/ent/dialect/gremlin/graph/dsl"
+	"github.com/apocelipes/ent/dialect/gremlin/graph/dsl"
 )
 
 // EQ is the equal predicate.

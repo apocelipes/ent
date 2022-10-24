@@ -11,18 +11,18 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/facebook/ent/entc/integration/customid/ent/migrate"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/migrate"
 	"github.com/google/uuid"
 
-	"github.com/facebook/ent/entc/integration/customid/ent/blob"
-	"github.com/facebook/ent/entc/integration/customid/ent/car"
-	"github.com/facebook/ent/entc/integration/customid/ent/group"
-	"github.com/facebook/ent/entc/integration/customid/ent/pet"
-	"github.com/facebook/ent/entc/integration/customid/ent/user"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/blob"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/car"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/group"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/pet"
+	"github.com/apocelipes/ent/entc/integration/customid/ent/user"
 
-	"github.com/facebook/ent/dialect"
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/dialect/sql/sqlgraph"
+	"github.com/apocelipes/ent/dialect"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql/sqlgraph"
 )
 
 // Client is the client that holds all ent builders.

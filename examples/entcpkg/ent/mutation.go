@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (

@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/facebook/ent/examples/o2obidi/ent"
-	"github.com/facebook/ent/examples/o2obidi/ent/user"
+	"github.com/apocelipes/ent/examples/o2obidi/ent"
+	"github.com/apocelipes/ent/examples/o2obidi/ent/user"
 
 	_ "github.com/mattn/go-sqlite3"
 )

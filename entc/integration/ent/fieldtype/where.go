@@ -11,10 +11,10 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/facebook/ent/dialect/sql"
-	"github.com/facebook/ent/entc/integration/ent/predicate"
-	"github.com/facebook/ent/entc/integration/ent/role"
-	"github.com/facebook/ent/entc/integration/ent/schema"
+	"github.com/apocelipes/ent/dialect/sql"
+	"github.com/apocelipes/ent/entc/integration/ent/predicate"
+	"github.com/apocelipes/ent/entc/integration/ent/role"
+	"github.com/apocelipes/ent/entc/integration/ent/schema"
 )
 
 // ID filters vertices based on their identifier.

@@ -9,7 +9,7 @@ package galaxy
 import (
 	"fmt"
 
-	"github.com/facebook/ent"
+	"github.com/apocelipes/ent"
 )
 
 const (
@@ -47,7 +47,7 @@ var Columns = []string{
 // package on the initialization of the application. Therefore,
 // it should be imported in the main as follows:
 //
-//	import _ "github.com/facebook/ent/entc/integration/privacy/ent/runtime"
+//	import _ "github.com/apocelipes/ent/entc/integration/privacy/ent/runtime"
 //
 var (
 	Hooks  [1]ent.Hook

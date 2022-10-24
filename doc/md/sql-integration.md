@@ -16,7 +16,7 @@ import (
     "time"
 
     "<your_project>/ent"
-    "github.com/facebook/ent/dialect/sql"
+    "github.com/apocelipes/ent/dialect/sql"
 )
 
 func Open() (*ent.Client, error) {
@@ -43,7 +43,7 @@ import (
     "time"
 
     "<your_project>/ent"
-    entsql "github.com/facebook/ent/dialect/sql"
+    entsql "github.com/apocelipes/ent/dialect/sql"
 )
 
 func Open() (*ent.Client, error) {
@@ -74,7 +74,7 @@ import (
 	
 	"contrib.go.opencensus.io/integrations/ocsql"
 	"github.com/go-sql-driver/mysql"
-	entsql "github.com/facebook/ent/dialect/sql"
+	entsql "github.com/apocelipes/ent/dialect/sql"
 )
 
 type connector struct {
@@ -117,8 +117,8 @@ import (
 
 	"<project>/ent"
 
-	"github.com/facebook/ent/dialect"
-	entsql "github.com/facebook/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect"
+	entsql "github.com/apocelipes/ent/dialect/sql"
 	_ "github.com/jackc/pgx/v4/stdlib"
 )
 

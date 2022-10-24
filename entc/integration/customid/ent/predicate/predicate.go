@@ -7,7 +7,7 @@
 package predicate
 
 import (
-	"github.com/facebook/ent/dialect/sql"
+	"github.com/apocelipes/ent/dialect/sql"
 )
 
 // Blob is the predicate function for blob builders.
